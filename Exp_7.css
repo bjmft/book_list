@@ -1,0 +1,17 @@
+tr.t1
+{
+    font-size: 15px; font-family: Verdana, Geneva, Tahoma, sans-serif; color:rgb(0, 0, 0); background-color: aqua;
+    border-collapse: collapse;
+}
+
+tr.t2
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; background-color: white;font-size: 15px;color: #000;
+    border-collapse: collapse;
+}
+
+tr.t3
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 15px;color: rgb(5, 2, 5); background-color: burlywood;
+    border-collapse: collapse;
+}
